@@ -12,6 +12,7 @@ termius-app
 *   WebGL2: Software only, hardware acceleration unavailable
 *   WebGPU: Disabled
 4. Reiniciar Ordenador
-5. Termius-app -disable-gpu --disable-webgl-hardware-acceleration
+5. desde terminal funciona: termius-app -disable-gpu --disable-webgl-hardware-acceleration
+6. /usr/share/applications/termius-app.desktop modificar linea a Exec=/opt/Termius/termius-app -disable-gpu --disable-webgl-hardware-acceleration --window --maximize %U
 
-_____________________________________________________________________________________________________________________________-
+
