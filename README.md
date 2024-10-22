@@ -25,7 +25,9 @@ sudo systemctl stop bluetooth.service (al ser pc de sobremesa sin bluetooth)
 ## Tip 3*: 
 Si escribo "cleaR" o cualquier caracter en un comando en mayuscula sin querer, aparece "Command Not found"
 ### Solucion 3*:
+
 Agrear al final del archivo "~/.bashrc": 
+```bash
 command_not_found_handle() {
     command="$(echo "$1" | tr '[:upper:]' '[:lower:]')"
     if command -v "$command" >/dev/null 2>&1; then
