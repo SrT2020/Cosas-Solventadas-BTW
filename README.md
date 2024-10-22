@@ -14,6 +14,10 @@ termius-app
 4. Reiniciar Ordenador
 5. desde terminal funciona: termius-app -disable-gpu --disable-webgl-hardware-acceleration
 6. /usr/share/applications/termius-app.desktop modificar linea a Exec=/opt/Termius/termius-app -disable-gpu --disable-webgl-hardware-acceleration --window --maximize %U
+7. para cambiarlo puedes usar:
+```bash
+sudo sed -i 's|^Exec=.*|Exec=/opt/Termius/termius-app -disable-gpu --disable-webgl-hardware-acceleration --window --maximize %U|' /usr/share/applications/termius-app.desktop
+```
 
 ---------------------------
 ## Warining 2* journalctl -f  = log real time:
