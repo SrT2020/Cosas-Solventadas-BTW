@@ -15,4 +15,9 @@ termius-app
 5. desde terminal funciona: termius-app -disable-gpu --disable-webgl-hardware-acceleration
 6. /usr/share/applications/termius-app.desktop modificar linea a Exec=/opt/Termius/termius-app -disable-gpu --disable-webgl-hardware-acceleration --window --maximize %U
 
+----------------------------
+## Warining 2*:
+journalctl -f  (Muestra alertas recurrentes: [system] Failed to activate service 'org.bluez': timed out )
+### Solucion 2*:
+sudo systemctl stop bluetooth.service (al ser pc de sobremesa sin bluetooth)
 
