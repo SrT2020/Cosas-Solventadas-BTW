@@ -28,3 +28,13 @@
 
 ![image](https://github.com/user-attachments/assets/a70782d9-813b-4f12-b6a4-cdf6eaea191d)
 
+# MAC aleatoria
+
+![image](https://github.com/user-attachments/assets/a50a61f8-1657-4dc8-a7c0-fe3af8d1bef2)
+
+# Privacidad
+
+- [brave](https://brave.com/)
+- [nextdns](https://nextdns.io/)
+- [getsession](https://getsession.org/)
+- [protonapps](https://protonapps.com/)
