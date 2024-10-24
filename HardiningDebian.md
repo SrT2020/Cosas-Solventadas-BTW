@@ -7,5 +7,10 @@
 
 # Paquetes recomendados
 
-![image](https://github.com/user-attachments/assets/5bb4d51b-36b3-4d09-9b7e-673863a229b1)
+![image](https://github.com/user-attachments/assets/89b5bb9d-6daa-4e8c-a656-93d7615c676e)
+
+
+# Grub2 password
+
+![image](https://github.com/user-attachments/assets/3fb2967e-9ea9-436a-bd68-3d33404d4dc0)
 
