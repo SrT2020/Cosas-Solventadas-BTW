@@ -7,10 +7,24 @@
 
 # Paquetes recomendados
 
-![image](https://github.com/user-attachments/assets/89b5bb9d-6daa-4e8c-a656-93d7615c676e)
-
+![image](https://github.com/user-attachments/assets/eec71bcf-8792-473f-bf43-6c65e6fe4537)
 
 # Grub2 password
 
 ![image](https://github.com/user-attachments/assets/3fb2967e-9ea9-436a-bd68-3d33404d4dc0)
+
+# habilitar unnatended upgrades
+
+![image](https://github.com/user-attachments/assets/dab56cab-cb0f-43fe-abd8-cdca65033741)
+
+# persmisos CUPSD
+
+![image](https://github.com/user-attachments/assets/a74597c8-5916-41f4-8163-eb921ef162de)
+
+# permsisos Crontab
+![image](https://github.com/user-attachments/assets/2467b3df-f91d-4945-9678-42999ab445a1)
+
+# habilitar sysstat
+
+![image](https://github.com/user-attachments/assets/a70782d9-813b-4f12-b6a4-cdf6eaea191d)
 
