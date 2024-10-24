@@ -30,7 +30,8 @@
 
 # MAC aleatoria
 
-![image](https://github.com/user-attachments/assets/a50a61f8-1657-4dc8-a7c0-fe3af8d1bef2)
+![image](https://github.com/user-attachments/assets/3319f6bc-e57d-478b-9c07-6494f4960786)
+
 
 # Privacidad
 
